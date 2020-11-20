@@ -1,0 +1,8 @@
+flake8
+ipdb
+ipython
+jupyter
+numpy
+GDAL
+Pillow
+scikit-learn
