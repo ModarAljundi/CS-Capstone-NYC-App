@@ -3,6 +3,6 @@ ipdb
 ipython
 jupyter
 numpy
-GDAL
 Pillow
 scikit-learn
+ipywidgets
