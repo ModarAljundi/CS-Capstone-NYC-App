@@ -2,3 +2,14 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - flake8
+  - ipdb
+  - ipython
+  - jupyter
+  - numpy
+  - Pillow
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - ipywidgets
