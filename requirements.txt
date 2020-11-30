@@ -4,5 +4,8 @@ ipython
 jupyter
 numpy
 Pillow
+pandas
+seaborn
+matplotlib
 scikit-learn
 ipywidgets
