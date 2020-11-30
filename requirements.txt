@@ -1,4 +1,5 @@
 flake8
+appmode
 ipdb
 ipython
 jupyter
